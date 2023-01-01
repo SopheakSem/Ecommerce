@@ -1,17 +1,22 @@
 ## An E-Commerce Website
 
-It is an e-commerce website which is built as series in YouTube. [Here the YouTube link to the whole series](https://www.youtube.com/playlist?list=PL2DahmvUpeus118wGxq8a9o-Guo4JSGg7). I have made it free, so you can use it as you like.
-
-## Support
-
-You can support me by subscribing to my [YouTube channel - Laratips](https://www.youtube.com/c/Laratips).
-
-If you want me to continue developing this package and want me to develop other similar series, then you help me financially by sending few bucks to my [Wise](https://wise.com/invite/ath/ashishd233) account in Nepalese 🇳🇵 currency. Or you could also support me with "Super Thanks" on YouTube.
-
-My Wise email: ashish.dhamala2015@gmail.com
-
-If you decide to support me, the please send me your twitter handle in mail so that I can shout-out about you on twitter.
-
-## License
-
-[MIT license](https://opensource.org/licenses/MIT).
+00:00 Start
+00:10 Previous Video Info
+00:21 Today's Video Info
+00:42 Sponsor Video
+01:34 Roles Crud Start
+01:42 Make Roles Seeder
+02:58 Pass Roles From Controller
+03:36 Make Role Resource
+04:59 See How Data Looks Like In Vue Dev Tools
+05:59 Make Table Component To Show Roles
+07:22 Make Table Th Component
+07:59 Make Headers Dynamic
+08:31 Make Table Td Component
+09:11 Use Table Component
+09:47 Pass Headers From Controller
+11:14 Show Table Body Contents
+12:47 Format Created At Column
+14:36 Make Scoped Slot To Access Table Data
+17:00 Make Actions Component
+21:31 Finalize
